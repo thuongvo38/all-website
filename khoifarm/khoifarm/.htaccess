@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteRule "index.html" "index.php"
+RewriteRule "about.html" "about.php"
+RewriteRule "blog.html" "blog.php"
+RewriteRule "cart.html" "cart.php"
+RewriteRule "login.html" "login.php"
+RewriteRule "register.html" "register.php"
+RewriteRule "category.html" "category.php"
+RewriteRule "checkout.html" "checkout.php"
+RewriteRule "contact.html" "contact.php"
+RewriteRule "product.html" "product.php"
+RewriteRule "blog-details.html" "blog-details.php"
+RewriteRule "wishlist.html" "wishlist.php"
+
+
+
+
+
